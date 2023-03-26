@@ -9,3 +9,5 @@
 ![Не удачная регистрация](https://user-images.githubusercontent.com/126570872/227765917-bd8f6b67-3f2f-48b6-8dca-ef481f13572b.png)
 # Удачный вход
 ![УдачныйВход](https://user-images.githubusercontent.com/126570872/227766735-5459aa17-f4aa-4635-aa7d-c07ad6ea5e90.png)
+# Не удачный вход
+![не удачный вход](https://user-images.githubusercontent.com/126570872/227772454-c81d56ce-373a-407d-b1f2-9a8ac2aecdbe.png)
