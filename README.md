@@ -13,3 +13,5 @@
 ![не удачный вход](https://user-images.githubusercontent.com/126570872/227772454-c81d56ce-373a-407d-b1f2-9a8ac2aecdbe.png)
 # Окно добавления услуги
 ![ДобавлениеУслуги](https://user-images.githubusercontent.com/126570872/232407922-dd35c8b2-259e-42db-b2ba-be4adbe6efee.png)
+# Окно редактирования услуги 
+![Редактированиеуслуги](https://user-images.githubusercontent.com/126570872/232415788-4a2ea6ff-82d2-4654-b62a-55c6c5bd0df9.png)
